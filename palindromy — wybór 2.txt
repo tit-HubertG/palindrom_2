@@ -1,0 +1,6 @@
+HJHHJHHJH
+
+liczba palindromow: 1
+liczba parzystych palindromow: 0
+liczba nieparzystych palindromow: 1
+liczba palindromow gdze A wystepuje conajmniej 3 razy: 0

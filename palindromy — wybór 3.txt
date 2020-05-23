@@ -1,0 +1,18 @@
+AABBHHIHHBBAA
+AABBAA
+AABAABAABAA
+AJAJAJAJAJA
+FAFBDCEAAAECDBFAF
+ABFACDDABADDCAFBA
+FAAAF
+AABBAA
+BAAJDJAAB
+BADADAB
+AAABEDEBAAA
+BDDFBAFAFABFDDB
+ADAADA
+
+liczba palindromow: 13
+liczba parzystych palindromow: 3
+liczba nieparzystych palindromow: 10
+liczba palindromow gdze A wystepuje conajmniej 3 razy: 13
