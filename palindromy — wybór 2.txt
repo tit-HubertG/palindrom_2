@@ -1,5 +1,0 @@
-HJHHJHHJH
-
-liczba palindromow: 1
-liczba parzystych palindromow: 0
-liczba nieparzystych palindromow: 1
